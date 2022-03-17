@@ -15,7 +15,7 @@ pipeline {
             steps {
            
                     sh ' deploy stage ' 
-                    echo "hello world"
+                    echo "helloworld"
                 }
             }
         }
