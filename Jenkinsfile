@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage ('Compile and checkout Stage') {
+        stage ('Compile and checkout .Stage') {
 
             steps {
            
